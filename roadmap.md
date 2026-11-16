@@ -1,0 +1,4 @@
+- [ ] Build the start screen and 12-question quiz flow.
+- [ ] Add editable question data and pure weighted scoring with tests.
+- [ ] Build results, topic tips, calculation details, and retake.
+- [ ] Verify the browser flow, preview health, and commit the completed work.
